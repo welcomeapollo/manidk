@@ -1,4 +1,3 @@
 manidk
 ======
-
-bj
+print ("whatever")
